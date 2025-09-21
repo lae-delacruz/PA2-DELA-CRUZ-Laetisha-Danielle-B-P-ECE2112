@@ -1,6 +1,7 @@
 PA2 DELA CRUZ, Laetisha Danielle B [P-ECE2112]
-_This repository contains the Jupyter notebook for PA2 
-_
+
+*This repository contains the Jupyter notebook for PA2* 
+
 
 This notebook demonstrates the various functions and uses of the Numpy library in Python
 
